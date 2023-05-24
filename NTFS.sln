@@ -8,18 +8,24 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Debug|ARM64 = Debug|ARM64
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
+		Release|ARM64 = Release|ARM64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{ED7F20A1-18AD-40D1-9CAE-5D613616F2F7}.Debug|x64.ActiveCfg = Debug|x64
 		{ED7F20A1-18AD-40D1-9CAE-5D613616F2F7}.Debug|x64.Build.0 = Debug|x64
 		{ED7F20A1-18AD-40D1-9CAE-5D613616F2F7}.Debug|x86.ActiveCfg = Debug|Win32
 		{ED7F20A1-18AD-40D1-9CAE-5D613616F2F7}.Debug|x86.Build.0 = Debug|Win32
+		{ED7F20A1-18AD-40D1-9CAE-5D613616F2F7}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{ED7F20A1-18AD-40D1-9CAE-5D613616F2F7}.Debug|ARM64.Build.0 = Debug|ARM64
 		{ED7F20A1-18AD-40D1-9CAE-5D613616F2F7}.Release|x64.ActiveCfg = Release|x64
 		{ED7F20A1-18AD-40D1-9CAE-5D613616F2F7}.Release|x64.Build.0 = Release|x64
 		{ED7F20A1-18AD-40D1-9CAE-5D613616F2F7}.Release|x86.ActiveCfg = Release|Win32
 		{ED7F20A1-18AD-40D1-9CAE-5D613616F2F7}.Release|x86.Build.0 = Release|Win32
+		{ED7F20A1-18AD-40D1-9CAE-5D613616F2F7}.Release|ARM64.ActiveCfg = Release|ARM64
+		{ED7F20A1-18AD-40D1-9CAE-5D613616F2F7}.Release|ARM64.Build.0 = Release|ARM64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
